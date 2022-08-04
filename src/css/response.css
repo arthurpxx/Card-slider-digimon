@@ -1,0 +1,28 @@
+@media (max-width: 620px) {
+  .card-slider {
+      padding: 0 15px;
+      gap: 10px;
+  }
+
+  .btn {
+      width: 20px;
+      height: 20px;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .list-monsters {
+      height: 480px;
+  }
+
+  .card .img {
+      max-height: 230px;
+  }
+
+  .card .info .name {
+      max-width: 50%;
+      font-size: 18px;
+  }
+}
